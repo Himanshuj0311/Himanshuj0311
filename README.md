@@ -24,7 +24,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Core Javascript, Html, CSS , Node.js , Express.js ,Mongodb</strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:krishu7827@gmail.com">himanshu.masai@gmail.com</a></strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:himanshu.masai@gmail.com">himanshu.masai@gmail.com</a></strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://drive.google.com/file/d/1xgiS4mSRuqUEIqbGOaBm_tFcE8td4l3A/view?usp=sharing" rel="nofollow">Resume</a></p>
@@ -73,28 +73,28 @@
 
 
 <h2 dir="auto"><a id="user-content-my-github-stats" class="anchor" aria-hidden="true" href="#my-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>My GitHub Stats</h2>
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishu7827&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dark" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshuj0311&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dark" style="max-width: 100%;"></a></p>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-stats.vercel.app/api?username=Krishu7827&amp;show_icons=true&amp;locale=en&amp;theme=dark" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-stats.vercel.app/api?username=Himanshuj0311&amp;show_icons=true&amp;locale=en&amp;theme=dark" style="max-width: 100%;"></a></p>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishu7827&amp;theme=dark" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuj0311&amp;theme=dark" style="max-width: 100%;"></a></p>
  
-<p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishu7827&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishu7827&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=himanshuj0311&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=Himanshuj0311&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
 <div align="center" dir="auto">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Krishu7827&amp;theme=darkhub&amp;margin-w=15" alt="GitHub Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Krishu7827&amp;theme=darkhub&amp;margin-w=15" style="max-width: 100%;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Himanshuj0311&amp;theme=darkhub&amp;margin-w=15" alt="GitHub Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Himanshuj0311&amp;theme=darkhub&amp;margin-w=15" style="max-width: 100%;">
   </a>
 </div>
 <h2 dir="auto"></h2><h3 align="Center" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>CONNECT WITH ME</h3>
 <p align="left" dir="auto">
 </p><div align="center" dir="auto">
-    <a href="https://www.linkedin.com/in/krishna-kumar-733915213/" rel="nofollow">
+    <a href="https://www.linkedin.com/in/himanshu-jain-b14b53246?original_referer=https%3A%2F%2Fwww.google.com%2F" rel="nofollow">
         <img src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn" height="30" width="30" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin.png" style="max-width: 100%;">
     </a>
-    <a href="https://twitter.com/@Krishna92959675" rel="nofollow">
+    <a href="https://twitter.com/@himansh17794519" rel="nofollow">
         <img src="https://camo.githubusercontent.com/5b3c84ab5053790df98750af5c36c60fb05058f6f2d9f62e94cf48e3650cc4bc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f747769747465722e706e67" alt="Twitter" height="30" width="30" data-canonical-src="https://img.icons8.com/color/48/000000/twitter.png" style="max-width: 100%;">
     </a>
-  <a href="https://Krishu7827.github.io" rel="nofollow">
+  <a href="https://himanshuj0311.github.io/" rel="nofollow">
         <img src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937" alt="Twitter" height="30" width="100" data-canonical-src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937"  width="300">
     </a>
 </div>
