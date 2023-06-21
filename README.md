@@ -98,4 +98,22 @@
         <img src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937" alt="Twitter" height="30" width="100" data-canonical-src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937"  width="300">
     </a>
 </div>
+
+</div>
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=Himanshuj0311&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+
+</div>
+
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Himanshu Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshuj0311&theme=react-dark" /></a>
+
+<br> 
+<div align="center">
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
+
+
+
 </article>
