@@ -1,4 +1,4 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
+
  <h3 align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Himanshu  Jain 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
@@ -77,7 +77,7 @@
 
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-stats.vercel.app/api?username=Himanshuj0311&amp;show_icons=true&amp;locale=en&amp;theme=dark" style="max-width: 100%;"></a></p>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuj0311&amp;theme=dark" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw21-0853" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuj0311&amp;theme=dark" style="max-width: 100%;"></a></p>
  
 <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=himanshuj0311&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=Himanshuj0311&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
 <div align="center" dir="auto">
