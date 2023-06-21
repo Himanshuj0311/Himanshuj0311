@@ -79,7 +79,7 @@
 
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw21-0853" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuj0311&amp;theme=dark" style="max-width: 100%;"></a></p>
  
-<p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=himanshuj0311&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=Himanshuj0311&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
+</a></p>
 <div align="center" dir="auto">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Himanshuj0311&amp;theme=darkhub&amp;margin-w=15" alt="GitHub Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Himanshuj0311&amp;theme=darkhub&amp;margin-w=15" style="max-width: 100%;">
