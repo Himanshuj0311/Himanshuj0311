@@ -75,9 +75,9 @@
 <h2 dir="auto"><a id="user-content-my-github-stats" class="anchor" aria-hidden="true" href="#my-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>My GitHub Stats</h2>
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshuj0311&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dark" style="max-width: 100%;"></a></p>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-stats.vercel.app/api?username=Himanshuj0311&amp;show_icons=true&amp;locale=en&amp;theme=dark" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw21_0853" src="https://github-readme-stats.vercel.app/api?username=Himanshuj0311&amp;show_icons=true&amp;locale=en&amp;theme=dark" style="max-width: 100%;"></a></p>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw21-0853" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuj0311&amp;theme=dark" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw21_0853" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuj0311&amp;theme=dark" style="max-width: 100%;"></a></p>
  
 </a></p>
 <div align="center" dir="auto">
@@ -104,7 +104,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aman1722}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Himanshuj0311}/count.svg" /></p> 
 <br>
 </div>
 <h2 dir="auto"></h2><h3 align="Center" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>CONNECT WITH ME</h3>
