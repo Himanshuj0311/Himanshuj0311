@@ -111,13 +111,13 @@
 <p align="left" dir="auto">
 </p><div align="center" dir="auto">
     <a href="https://www.linkedin.com/in/himanshu-jain-b14b53246?original_referer=https%3A%2F%2Fwww.google.com%2F" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn" height="30" width="30" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin.png" style="max-width: 100%;">
+        <img src="[https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="LinkedIn" height="30" width="30" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin.png" style="max-width: 100%;">
     </a>
     <a href="https://twitter.com/@himansh17794519" rel="nofollow">
         <img src="[https://camo.githubusercontent.com/5b3c84ab5053790df98750af5c36c60fb05058f6f2d9f62e94cf48e3650cc4bc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f747769747465722e706e67](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s)" alt="Twitter" height="30" width="30" data-canonical-src="https://img.icons8.com/color/48/000000/twitter.png" style="max-width: 100%;">
     </a>
-  <a href="https://himanshuj0311.github.io/" rel="nofollow">
+<!--   <a href="https://himanshuj0311.github.io/" rel="nofollow">
         <img src="[https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937](https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721001600&semt=ais_user)" alt="Twitter" height="30" width="100" data-canonical-src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937"  width="300">
-    </a>
+    </a> -->
 </div>
 </article>
